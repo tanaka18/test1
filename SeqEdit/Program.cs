@@ -6,7 +6,7 @@ using System.Windows.Forms;
 namespace SeqEdit
 {
     static class Program
-    {a
+    {aaa
         /// <summary>
         /// アプリケーションのメイン エントリ ポイントです。
         /// </summary>
