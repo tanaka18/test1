@@ -1,0 +1,15 @@
+C:\Users\Tanaka\Desktop\SeqEdit\SeqEdit\obj\x86\Debug\SeqEdit.Properties.Resources.resources
+C:\Users\Tanaka\Desktop\SeqEdit\SeqEdit\obj\x86\Debug\SeqEdit.csproj.GenerateResource.Cache
+C:\Users\Tanaka\Desktop\SeqEdit\SeqEdit\bin\Debug\SeqEdit.exe
+C:\Users\Tanaka\Desktop\SeqEdit\SeqEdit\bin\Debug\SeqEdit.pdb
+C:\Users\Tanaka\Desktop\SeqEdit\SeqEdit\obj\x86\Debug\SeqEdit.exe
+C:\Users\Tanaka\Desktop\SeqEdit\SeqEdit\obj\x86\Debug\SeqEdit.pdb
+C:\Users\Tanaka\Desktop\SeqEdit\SeqEdit\obj\x86\Debug\SeqEdit.SeqEditForm.resources
+C:\SRC\SeqEdit\SeqEdit\obj\x86\Debug\SeqEdit.exe
+C:\SRC\SeqEdit\SeqEdit\obj\x86\Debug\SeqEdit.pdb
+C:\SRC\SeqEdit\SeqEdit\bin\Debug\SeqEdit.exe
+C:\SRC\SeqEdit\SeqEdit\bin\Debug\SeqEdit.pdb
+C:\SRC\SeqEdit\SeqEdit\obj\x86\Debug\SeqEdit.Properties.Resources.resources
+C:\SRC\SeqEdit\SeqEdit\obj\x86\Debug\SeqEdit.SeqEditForm.resources
+C:\SRC\SeqEdit\SeqEdit\obj\x86\Debug\SeqEdit.csproj.GenerateResource.Cache
+C:\SRC\SeqEdit\SeqEdit\obj\x86\Debug\SeqEdit.csprojResolveAssemblyReference.cache
