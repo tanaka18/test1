@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace SeqEdit
+namespace SeqEditddd
 {
     public partial class SeqEditForm : Form
     {
